@@ -1,0 +1,17 @@
+Country / Region,Indicator,Scenario,Category,Composite name,2070,2060,2050,2040,2030,2020,2010
+World,CO2,Low policy (2015),Buildings,Buildings | GHG Emissions by Gas | CO2,5081.71,4959.61,4748.6,4436.5,4060.16,3458.41,2863.66
+World,CO2,Low policy (2015),Transportation,Transportation | GHG Emissions by Gas | CO2,16577.31,14445.66,12595.12,11070.2,9756.43,8477.42,7179.27
+World,CO2,Low policy (2015),Industry,Industry | GHG Emissions by Gas | CO2,14200.16,14109.84,13735.61,13175.98,12594.08,11154.84,9346.01
+World,CO2,Paris - Increased ambition (2015),Electricity,Electricity | GHG Emissions by Gas | CO2,2200.13,5766.0,9849.46,12865.94,15029.79,14364.15,11672.56
+World,CO2,Paris - Increased ambition (2015),Buildings,Buildings | GHG Emissions by Gas | CO2,3416.79,3576.46,3664.99,3556.47,3577.22,3214.32,2863.66
+World,CO2,Paris - Increased ambition (2015),Transportation,Transportation | GHG Emissions by Gas | CO2,14808.25,13168.33,11751.56,10535.75,9531.06,8347.53,7179.27
+World,CO2,Paris - Increased ambition (2015),Industry,Industry | GHG Emissions by Gas | CO2,6043.96,6822.38,7756.21,8777.68,10849.54,10355.23,9346.01
+World,CO2,Paris - Continued ambition (2015),Electricity,Electricity | GHG Emissions by Gas | CO2,13329.18,14283.34,15170.12,15245.03,15029.79,14364.15,11672.56
+World,CO2,Paris - Continued ambition (2015),Buildings,Buildings | GHG Emissions by Gas | CO2,4341.27,4268.23,4161.14,3881.29,3577.22,3214.32,2863.66
+World,CO2,Paris - Continued ambition (2015),Transportation,Transportation | GHG Emissions by Gas | CO2,15926.24,13951.04,12258.02,10834.86,9531.06,8347.53,7179.27
+World,CO2,Paris - Continued ambition (2015),Industry,Industry | GHG Emissions by Gas | CO2,10030.01,10346.83,10743.73,10958.62,10849.54,10355.23,9346.01
+World,CO2,No policy (2015),Electricity,Electricity | GHG Emissions by Gas | CO2,27308.95,25457.61,23377.96,21148.0,18389.34,15390.96,11672.56
+World,CO2,No policy (2015),Buildings,Buildings | GHG Emissions by Gas | CO2,5300.13,5122.37,4866.65,4512.26,4060.16,3458.41,2863.66
+World,CO2,No policy (2015),Transportation,Transportation | GHG Emissions by Gas | CO2,16921.13,14690.07,12770.58,11185.94,9756.43,8477.42,7179.27
+World,CO2,No policy (2015),Industry,Industry | GHG Emissions by Gas | CO2,15382.55,15014.55,14446.17,13655.58,12594.08,11154.84,9346.01
+World,CO2,Low policy (2015),Electricity,Electricity | GHG Emissions by Gas | CO2,23482.83,22631.18,21372.3,19950.47,18389.34,15390.96,11672.56
